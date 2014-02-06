@@ -1,6 +1,7 @@
 #ifndef HSTRING_H
 #define HSTRING_H
 
+#include <QString>
 #include "observable.h"
 
 namespace horti {
